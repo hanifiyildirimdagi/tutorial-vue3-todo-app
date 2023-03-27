@@ -1,0 +1,9 @@
+.v-application {
+  font-family: 'Ubuntu', sans-serif;
+
+  .v- {
+    &btn {
+        text-transform: initial;
+    }
+  }
+}
